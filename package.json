@@ -1,7 +1,7 @@
 {
     "name": "hello-api",
     "description": "Hell World API",
-    "author": "Clara",
+    "author": "Lane",
     "dependencies": {
         "express": "^4.17.1"
     },
