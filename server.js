@@ -4,7 +4,7 @@ let path = require('path')
 
 let app = express()
 
-app.use(express.static(path.join(__dirname, 'hello_vue', 'dist')))
+app.use(express.static(path.join(__dirname, 'hello-vue', 'dist')))
 
 app.use('/api', routes)
 
